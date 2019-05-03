@@ -1,0 +1,29 @@
+
+.bg{
+    position: relative;
+    background-color: #eaeaed;
+    height: 500px;
+    width: 800px;
+}
+.circle {
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background: #2db34a;
+    animation: myfirst 3s infinite;
+    animation-direction: alternate;
+    animation-play-state: paused;
+
+}
+
+@keyframes myfirst {
+    0%   {left: 0px; top: 0px;}
+    50%  {left: 320px; top:420px}
+    100%  {left: 720px; top: 0px;}
+}
+
+
+.circle:hover{
+    animation-play-state: running;
+}

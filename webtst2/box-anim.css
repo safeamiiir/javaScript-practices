@@ -1,0 +1,43 @@
+body {
+    color: #fff;
+    font: 600 24px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
+    margin: 12px 45px;
+}
+.spin {
+    cursor: pointer;
+    transform-style: preserve-3d;
+}
+.spin:active{
+    animation: spin 5s linear infinite;
+}
+@keyframes spin {
+    0% {
+        transform: rotateY(0deg);
+    }
+    100% {
+        transform: rotateY(360deg);
+    }
+}
+.cube {
+    position: relative;
+    width:175px;
+}
+.side {
+    height: 95px;
+    line-height: 95px;
+    position: absolute;
+    text-align: center;
+    width: 95px;
+}
+.top {
+    background: #33cc54;
+    transform: rotate(-45deg) skew(15deg, 15deg);
+}
+.left {
+    background: #2db34a;
+    transform: rotate(15deg) skew(15deg, 15deg) translate(-50%, 100%);
+}
+.right {
+    background: #26973e;
+    transform: rotate(-15deg) skew(-15deg, -15deg) translate(50%, 100%);
+}

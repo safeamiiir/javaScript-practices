@@ -1,0 +1,90 @@
+body{
+    padding: 0 20px;
+    color: yellow;
+    background-color: mediumorchid;
+    font-family: "VAGRounded BT", serif ;
+    font-size: 15px;
+}
+#carNumInput{
+    margin: 70px 10px 0 50px;
+    min-width: 220px;
+    min-height: 23px;
+    font-size: 13px;
+    font-family: "VAGRounded BT", serif ;
+    border-radius: 5px;
+    background-color: yellowgreen;
+    color: yellow;
+}
+
+#submitButton{
+    min-width: 90px;
+    min-height: 30px;
+    font-size: 13px;
+    font-family: "VAGRounded BT", serif ;
+    border-radius: 5px;
+    background-color: yellowgreen;
+    color: black;
+}
+
+.moveInputs{
+    margin: 10px;
+    min-width: 200px;
+    min-height: 23px;
+    font-size: 13px;
+    font-family: "VAGRounded BT", serif ;
+    border-radius: 5px;
+    border-style: none;
+    background-color: chartreuse;
+    color: black;
+}
+#mainInformation{
+    float: left;
+    padding: 20px;
+    margin: 15px;
+    min-height: 250px;
+    width: 43%;
+    border-style: groove;
+    border-radius: 10px;
+    background-color: #0000ab;
+    color: #d6d600;
+    font-size: 15px;
+}
+#userInputMoves{
+    float: left;
+    margin: 15px;
+    height: 290px;
+    width: 43%;
+    border-style: groove;
+    border-radius: 10px;
+    background-color: #0000ab;
+    color: #d6d600;
+}
+#moveConfirm{
+    float: right;
+    margin:  10px 44%;
+    padding: 10px;
+    min-width: 150px;
+    min-height: 50px;
+    font-size: 15px;
+    font-family: "VAGRounded BT", serif ;
+    border-radius: 5px;
+    background-color: mediumvioletred;
+    color: white;
+}
+#moveInformation{
+    float: left;
+    margin:  10px 30px;
+    width: 700px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: "VAGRounded BT", serif ;
+    border-style: solid;
+    border-radius: 5px;
+    color: white;
+}
+#moveConfirm:hover{
+    background-color: #e8189b;
+}
+#submitButton:hover{
+    background-color: #b4f13c;
+}

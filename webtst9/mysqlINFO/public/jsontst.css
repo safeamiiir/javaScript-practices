@@ -1,0 +1,53 @@
+#insertion{
+    visibility: hidden;
+}
+
+#pannelDiv{
+    display: none;
+}
+
+a {
+    text-decoration: none;
+    color : black;
+}
+
+a:hover{
+    text-decoration: none;
+    color : darkgray;
+}
+button{
+    border-radius: 5px;
+}
+
+#edit{
+    display: none;
+}
+
+#delete {
+    display: none;
+}
+#uidCI{
+    display: none;
+}
+
+#firstNameCI{
+    display: none;
+}
+#lastNameCI{
+    display: none;
+}
+#cityCI{
+    display: none;
+}
+#postalCodeCI{
+    display: none;
+}
+#phoneNumberCI{
+    display: none;
+}
+#positionCI{
+    display: none;
+}
+#done{
+    display: none;
+}

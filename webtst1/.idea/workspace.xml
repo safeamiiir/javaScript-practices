@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b3e2e3c-d4c8-43d3-aa0d-b2fad1ee9213" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="rndmCap.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rndmCap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stylesheet</find>
+      <find>top</find>
+      <find>li a</find>
+      <find>class=&quot;li a&quot;</find>
+      <find>left</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Searched_DialogBox.html" />
+        <option value="$PROJECT_DIR$/webtst.html" />
+        <option value="$PROJECT_DIR$/webtst.css" />
+        <option value="$PROJECT_DIR$/findmid.html" />
+        <option value="$PROJECT_DIR$/findmid.js" />
+        <option value="$PROJECT_DIR$/sortArr.html" />
+        <option value="$PROJECT_DIR$/getDate.html" />
+        <option value="$PROJECT_DIR$/data.js" />
+        <option value="$PROJECT_DIR$/Capitilize.html" />
+        <option value="$PROJECT_DIR$/sortArr.js" />
+        <option value="$PROJECT_DIR$/rndmCap.html" />
+        <option value="$PROJECT_DIR$/newtst.html" />
+        <option value="$PROJECT_DIR$/newtst.css" />
+        <option value="$PROJECT_DIR$/Capitilize.js" />
+        <option value="$PROJECT_DIR$/isPrime.html" />
+        <option value="$PROJECT_DIR$/isPrime.js" />
+        <option value="$PROJECT_DIR$/webpagetst.css" />
+        <option value="$PROJECT_DIR$/table.html" />
+        <option value="$PROJECT_DIR$/table.js" />
+        <option value="$PROJECT_DIR$/WebPagetst.html" />
+        <option value="$PROJECT_DIR$/webPagetst.css" />
+        <option value="$PROJECT_DIR$/Dialogbox.html" />
+        <option value="$PROJECT_DIR$/2-5/rndmCap.html" />
+        <option value="$PROJECT_DIR$/rndmCap.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webtst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webtst" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.findmid.html">
+    <configuration default="false" name="webtst.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webtst/webtst.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="findmid.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webtst/findmid.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.webtst.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.findmid.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.findmid.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.webtst.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b3e2e3c-d4c8-43d3-aa0d-b2fad1ee9213" name="Default" comment="" />
+      <created>1518675044496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518675044496</updated>
+      <workItem from="1518675052620" duration="21641000" />
+      <workItem from="1518700913918" duration="497000" />
+      <workItem from="1518701747965" duration="2000000" />
+      <workItem from="1518724833061" duration="207000" />
+      <workItem from="1518811217238" duration="7855000" />
+      <workItem from="1518819286038" duration="642000" />
+      <workItem from="1518872270503" duration="6758000" />
+      <workItem from="1518902509224" duration="1755000" />
+      <workItem from="1518904834064" duration="243000" />
+      <workItem from="1518972760764" duration="125000" />
+      <workItem from="1519375277527" duration="660000" />
+      <workItem from="1519885758295" duration="48000" />
+      <workItem from="1520505636541" duration="2000" />
+      <workItem from="1520505667215" duration="1875000" />
+      <workItem from="1520532603887" duration="67000" />
+      <workItem from="1520534549601" duration="280000" />
+      <workItem from="1520534860497" duration="13000" />
+      <workItem from="1520588833564" duration="1214000" />
+      <workItem from="1520597201082" duration="3000" />
+      <workItem from="1520713712471" duration="669000" />
+      <workItem from="1520762375488" duration="566000" />
+      <workItem from="1520772761783" duration="49000" />
+      <workItem from="1521023556638" duration="420000" />
+      <workItem from="1521025968338" duration="1418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49007000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.051593322" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1-4/WebPagetst.html" />
+    <entry file="file://$PROJECT_DIR$/1-4/WebPagetst.html" />
+    <entry file="file://$PROJECT_DIR$/1-4/WebPagetst.html" />
+    <entry file="file://$PROJECT_DIR$/WebPagetst.html" />
+    <entry file="file://$PROJECT_DIR$/webPagetst.css" />
+    <entry file="file://$PROJECT_DIR$/rndmCap.js" />
+    <entry file="file://$PROJECT_DIR$/rndmCap.html" />
+    <entry file="file://$PROJECT_DIR$/webtst.html" />
+    <entry file="file://$PROJECT_DIR$/WebPagetst.html" />
+    <entry file="file://$PROJECT_DIR$/dialogBox.html" />
+    <entry file="file://$PROJECT_DIR$/rndmCap.js" />
+    <entry file="file://$PROJECT_DIR$/rndmCap.html" />
+    <entry file="file://$PROJECT_DIR$/Searched_DialogBox.html" />
+    <entry file="file://$PROJECT_DIR$/jackbox.jpg" />
+    <entry file="file://$PROJECT_DIR$/findmid.html" />
+    <entry file="file://$PROJECT_DIR$/findmid.js" />
+    <entry file="file://$PROJECT_DIR$/sortArr.html" />
+    <entry file="file://$PROJECT_DIR$/sortArr.js" />
+    <entry file="file://$PROJECT_DIR$/newtst.css" />
+    <entry file="file://$PROJECT_DIR$/newtst.html" />
+    <entry file="file://$PROJECT_DIR$/getDate.html" />
+    <entry file="file://$PROJECT_DIR$/data.js" />
+    <entry file="file://$PROJECT_DIR$/Capitilize.js" />
+    <entry file="file://$PROJECT_DIR$/Capitilize.html" />
+    <entry file="file://$PROJECT_DIR$/isPrime.js" />
+    <entry file="file://$PROJECT_DIR$/isPrime.html" />
+    <entry file="file://$PROJECT_DIR$/table.js" />
+    <entry file="file://$PROJECT_DIR$/table.html" />
+    <entry file="file://$PROJECT_DIR$/webtst.html" />
+    <entry file="file://$PROJECT_DIR$/dialogBox.css" />
+    <entry file="file://$PROJECT_DIR$/dialogBox.html" />
+    <entry file="file://$PROJECT_DIR$/2-1/findmid.html" />
+    <entry file="file://$PROJECT_DIR$/1-3/newtst.html" />
+    <entry file="file://$PROJECT_DIR$/1-2/dialogBox.html" />
+    <entry file="file://$PROJECT_DIR$/1-1/webtst.html" />
+    <entry file="file://$PROJECT_DIR$/1-4/webPagetst.css" />
+    <entry file="file://$PROJECT_DIR$/1-4/WebPagetst.html" />
+    <entry file="file://$PROJECT_DIR$/2-7/table.html" />
+    <entry file="file://$PROJECT_DIR$/2-6/isPrime.html" />
+    <entry file="file://$PROJECT_DIR$/2-5/rndmCap.html" />
+    <entry file="file://$PROJECT_DIR$/2-5/rndmCap.js" />
+    <entry file="file://$PROJECT_DIR$/2-6/isPrime.js" />
+    <entry file="file://$PROJECT_DIR$/rndmCap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebPagetst.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webPagetst.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rndmCap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

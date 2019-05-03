@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <% include ../partials/head %>
+</head>
+<body class="container">
+
+<header>
+    <% include ../partials/header %>
+</header>
+
+<main>
+    <div class="jumbotron">
+
+        <ul>
+            <% arts.forEach(function(art) { if(art.id === artID) { %>
+            <li>
+                <b> Article's Tite : </b> <%= art.title%>
+                <br>
+                <p> <%= art.content %> </p>
+            </li>
+            <% }}); %>
+        </ul>
+
+    </div>
+</main>
+
+</body>
+</html>

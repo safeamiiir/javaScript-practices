@@ -1,0 +1,21 @@
+
+body{
+    background-color: yellowgreen;
+}
+
+td {
+    border: 2px solid darkgray;
+    font-family: "VAGRounded BT", serif;
+    padding: 13px;
+    color: white;
+    background-color: deepskyblue;
+    min-height: 15px;
+    min-width: 15px;
+    border-radius: 5px;
+}
+table{
+    padding: 20px 300px;
+}
+td:hover{
+    border: 2px inset white;
+}

@@ -1,0 +1,2 @@
+from.txt file
+This is the most common way to read a file with Node.js

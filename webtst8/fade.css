@@ -1,0 +1,13 @@
+.content{
+    padding: 5px;
+    margin: 5px;
+    width: 450px;
+    height: 200px;
+    background-color: gainsboro;
+}
+.nextContent{
+    padding: 5px;
+    margin: 5px;
+    width: 450px;
+    height: 200px;
+}

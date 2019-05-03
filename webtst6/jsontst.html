@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> JSON </title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="jsontst.css">
+</head>
+<body class="p-4 badge-info ">
+
+<div class="container">
+    <h2 class="m-3 text-danger font-weight-bold font-italic"> Information Table </h2>
+    <table class="table table-striped table-hover table-dark rounded" id="myTable" onclick="rowDetector()"> </table>
+</div>
+
+<div class="row">
+
+    <div class="container panel col-6" id="pannelDiv">
+        <table class="table table-striped table-hover table-dark rounded col-12" id="pannelTable">
+            <thead class="thead-light">
+
+            <tr>
+                <th scope="col"> <button class=" btn-default text-light bg-danger" onclick="cancelPannel()">CANCEL</button> </th>
+                <th scope="col"> Data</th>
+                <th>
+                    <div class=" d-flex justify-content-around">
+                        <button class=" btn-default text-success bg-dark " id="add" onclick="visible()" > ADD </button>
+                        <button class=" btn-default text-warning bg-dark " id="edit" onclick="editMainTableContent()" > EDIT </button>
+                        <button class=" btn-default text-danger bg-dark " id="delete" onclick="deleteMainTableContent()" > DELETE </button>
+                        <button class=" btn-default text-light bg-success " id="done" onclick="doneMainTableContent()" > DONE! </button>
+                    </div>
+                </th>
+            </tr>
+            </thead>
+
+            <tr>
+                <td> UID :</td>
+                <td id="uidC"></td>
+                <td> <input type="text"  id="uidCI"> </td>
+            </tr>
+            <tr>
+                <td> firstName :</td>
+                <td id="firstNameC"> </td>
+                <td> <input type="text"  id="firstNameCI"> </td>
+
+            </tr>
+            <tr>
+                <td>lastName :</td>
+                <td id="lastNameC"> </td>
+                <td> <input type="text" id="lastNameCI"> </td>
+
+            </tr>
+            <tr>
+                <td>City :</td>
+                <td id="cityC"> </td>
+                <td> <input type="text"  id="cityCI"> </td>
+
+            </tr>
+            <tr>
+                <td>postalCode :</td>
+                <td id="postalCodeC"> </td>
+                <td> <input type="text"  id="postalCodeCI"> </td>
+
+            </tr>
+            <tr>
+                <td>PhoneNumber :</td>
+                <td id="phoneNumberC"> </td>
+                <td> <input type="text"  id="phoneNumberCI"> </td>
+
+            </tr>
+            <tr>
+                <td>position :</td>
+                <td id="positionC"> </td>
+                <td> <input type="text"  id="positionCI"> </td>
+
+            </tr>
+        </table>
+    </div>
+
+    <div class="container panel col-6" id="insertion">
+        <table class="table table-striped table-hover table-dark rounded col-12 " id="pannelAddTable">
+            <thead class="thead-light">
+
+            <tr>
+                <th scope="col">pannel</th>
+                <th scope="col"> Data Insertion</th>
+                <th>
+                    <button class=" btn-default text-light bg-danger" onclick="cancel()"> CANCEL </button>
+                    <button class=" btn-default text-light bg-success " onclick="submitNewData()"> SUBMIT </button>
+                </th>
+            </tr>
+            </thead>
+
+            <tr>
+                <td> UID :</td>
+                <td> <input type="text" placeholder="ex: 112233" id="uidI"> </td>
+            </tr>
+            <tr>
+                <td> firstName :</td>
+                <td> <input type="text" placeholder="ex: ali" id="firstNameI"> </td>
+            </tr>
+            <tr>
+                <td>lastName :</td>
+                <td> <input type="text" placeholder="ex: ahmadi" id="lastNameI"> </td>
+            </tr>
+            <tr>
+                <td>City :</td>
+                <td>  <input type="text" placeholder="ex: karaj" id="cityI"> </td>
+            </tr>
+            <tr>
+                <td>postalCode :</td>
+                <td>  <input type="text" placeholder="ex: 2344562345" id="postalCodeI"> </td>
+            </tr>
+            <tr>
+                <td>PhoneNumber :</td>
+                <td>  <input type="text" placeholder="ex: 03111224434" id="phoneNumberI"> </td>
+            </tr>
+            <tr>
+                <td>position :</td>
+                <td> <input type="text" placeholder="ex: analyzer" id="positionI"> </td>
+            </tr>
+        </table>
+    </div>
+
+</div>
+
+<script src="jquery-3.3.1.min.js"></script>
+<script src="jsontst.js"></script>
+</body>
+</html>

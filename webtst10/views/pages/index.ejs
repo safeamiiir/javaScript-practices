@@ -1,0 +1,35 @@
+<!-- views/pages/index.ejs -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <% include ../partials/head %>
+</head>
+<body class="container">
+
+<header>
+    <% include ../partials/header %>
+</header>
+
+
+<main>
+    <div class="jumbotron">
+
+        <h2> Articles </h2>
+        <ul>
+             <% arts.forEach(function(art) { %>
+            <li>
+                 <b> Article's Tite : </b> <%= art.title%>
+                 <br>
+                 <p> <%= art.content.substr(0,8) + '...' %> </p>
+                <p><a href="http://localhost:8080/articles/<%= art.id %>"> more ... </a> </p>
+            </li>
+            <hr>
+            <% }); %>
+        </ul>
+
+    </div>
+</main>
+
+</body>
+</html>

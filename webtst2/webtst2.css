@@ -1,0 +1,50 @@
+
+.top-divs {
+    height: 150px;
+    width: 200px;
+    background-color: #555;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+    background-color: grey;
+    text-align: center;
+
+    clear:right;
+
+}
+
+.clearleft {
+    height: 150px;
+    width: 200px;
+    background-color: #555;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+    background-color: grey;
+    text-align: center;
+
+    clear: left;
+}
+
+.displayinlineblock{
+    height: 150px;
+    width: 200px;
+    background-color: #555;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+    color: white;
+    background-color: grey;
+    text-align: center;
+
+    display: inline-block;
+
+
+}

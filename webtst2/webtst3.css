@@ -1,0 +1,25 @@
+.black{
+    position: relative;
+    height: 400px;
+    width: 400px;
+    background-color:black;
+}
+
+.yellow{
+    position: absolute;
+    right:0px;
+    bottom:0px;
+    height: 240px;
+    width: 240px;
+    background-color:yellow;
+
+}
+
+.red{
+    position: absolute;
+    top:20px;
+    right:0px;
+    height: 100px;
+    width: 100px;
+    background-color:red;
+}

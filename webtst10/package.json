@@ -1,0 +1,10 @@
+{
+  "name": "node-ejs",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^1.0.0",
+    "express": "^4.6.1",
+    "mongoose": "^5.1.1"
+  }
+}

@@ -1,0 +1,53 @@
+body{
+    background-color: #343a40;
+    font-family: "VAGRounded BT", Arial, sans-serif;
+}
+.minWidthHeight{
+    min-height: 220px;
+}
+.callingCode{
+    min-height: 30px;
+    padding: 5px 0 5px 0;
+    font-size: 20px;
+    text-align: center;
+
+}
+.callingCodeNumber{
+    min-height: 180px;
+    font-size: 50px;
+    padding: 60px 0 5px 0;
+    text-align: center;
+}
+.capitalReportTitle{
+    height: 40px;
+    text-align: center;
+    padding: 5px 0 5px 0;
+
+}
+.capitalReportPic{
+    height: 140px;
+    padding: 5px 0 5px 0;
+}
+#weatherInfo{
+    height: 100px;
+    padding: 5px 0 5px 5px;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.googleMaps{
+    height: 40px;
+    text-align: center;
+    padding: 5px 0 5px 0;
+}
+
+#map{
+    left: 20px;
+}
+.left{
+    left: 10px;
+}

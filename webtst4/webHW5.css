@@ -1,0 +1,177 @@
+
+a{
+    text-decoration: underline;
+    color: black;
+}
+a:hover{
+    border-bottom: 2px;
+    color: black;
+}
+.yellow{
+    text-align: right;
+    padding:10px 20px;
+    background: url(../images/test-bg.jpg) 0 -100px,#ffee23;
+    background-size: 25%;
+    background-blend-mode: multiply;
+}
+.yellow ul li{
+    display: inline-block;
+}
+.text-line{
+    text-decoration: underline;
+}
+.yellow a{
+    color: black;
+    display:inline-block;
+    line-height: 5px;
+    text-align: right;
+}
+.col-12{
+    text-align: center;
+}
+.col-12 img{
+    width: 420px;
+    height: 75px;
+    margin: 0 auto;
+}
+.name{
+    text-transform:uppercase;
+    display: block;
+}
+.subtitle{
+    display: block;
+}
+.btn-outline-warning{
+    margin-top: 5px;
+    margin-left: 10px;
+    color: black;
+    font-size:15px;
+    font-weight: bolder;
+    border: solid 2px #000000;
+    display: inline-block;
+}
+.btn-outline-warning:hover{
+    background: #000000;
+    color:#ffd11b;
+    border: solid 2px #000000;
+}
+.col-12 span a{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.col-12 span p{
+    padding-top: 10px;
+}
+.workshop{
+    padding-top: 20px;
+    margin: 0 auto;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.btn-warning{
+    margin-left: 10px;
+    color: black;
+    font-size:17px;
+    border-bottom: solid 1px #000000;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+.btn-warning:hover{
+    margin-left: 10px;
+    color:white;
+    font-size:17px;
+    border: solid 1px #000000;
+    display: inline-block;
+    background-color: black;
+}
+.ul{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.text{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.secnd-part{
+    background: #f0f0f0;
+}
+.term {
+    height: 190px;
+    display: block;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    text-align: left;
+    border: 2px solid #787878;
+}
+.term .chrome {
+    height: 34px;
+    padding-left: 4px;
+    border-bottom: 2px solid #787878;
+}
+.term .chrome .btn {
+    display: inline-block;
+    vertical-align: middle;
+    width: 8px;
+    height: 8px;
+    border: 2px solid #787878;
+    border-radius: 100%;
+}
+.term code {
+    display: block;
+    margin: 12px 0;
+    padding: 4px 10px;
+    border-left: 8px solid #f7da03;
+    border-radius: 0;
+    background: none;
+    color: black;
+}
+.term .workshopper {
+    background: #f8f0bd;
+    padding: 2px;
+}
+.font-weight-bold-1{
+    padding-top: 20px;
+    text-align: left;
+    font-weight: bolder;
+}
+.text-get{
+    text-align: left;
+    padding-bottom: 40px;
+}
+.core{
+    padding-top: 20%;
+}
+.title-text{
+    color: black;
+    line-height: 15px;
+    margin-top: 40px;
+    text-align: left;
+    background: #ffe51f;
+}
+.title-text:hover{
+    background: #dcc31e;
+}
+.title-text+p{
+    padding-top: 40px;
+}
+.title-text-1{
+    color: white;
+    line-height: 15px;
+    margin-top: 40px;
+    text-align: left;
+    background: #333;
+}
+.title-text-1:hover{
+    background: black;
+}
+.title-text-1+p{
+    padding-top: 40px;
+}
+hr{
+    height:3px;
+    background: #333333;
+}
+.hr p{
+    font-size: 12px;
+    padding-bottom: 90px;
+}

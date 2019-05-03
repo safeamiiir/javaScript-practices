@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="node_modules/angular/angular.js"></script>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+    <title>Data</title>
+</head>
+<body ng-app="MyApp">
+<div ng-controller = "tableControllerFunc">
+
+    <div class="container row">
+        <div class="input-field col s3">
+            <input id="icon_prefix" type="text" class="validate" ng-model="searchInTable">
+            <label for="icon_prefix">Search</label>
+            <!--<div> Search results : {{searchInTable | searching}}</div>-->
+        </div>
+    </div>
+    <div class="container">
+        <div>
+            <form action="#">
+                <p>
+                    <label>
+                        <input type="checkbox" ng-model="checkboxModelMale" data-ng-true-value="'male'" data-ng-false-value="" class="filled-in">
+                        <span>Male</span>
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <input type="checkbox" ng-model="checkboxModelFemale" data-ng-true-value="'female'" data-ng-false-value="" class="filled-in">
+                        <span>Female</span>
+                    </label>
+                </p>
+            </form>
+        </div>
+    </div>
+
+    <div class="container">
+        <table class=" responsive-table striped">
+            <tr ng-model="sort">
+                <th ng-click="sort = 'firstName'" ><a href="">FirstName</a>  </th>
+                <th ng-click="sort = 'lastName'" > <a href=""> LastName </a>  </th>
+                <th ng-click="sort = ['-year','-month','-day']" > <a href=""> Date </a> </th>
+                <th ng-click="sort = 'gender'" > <a href=""> Genderar </a> </th>
+            </tr>
+            <tr ng-repeat="user in Users | filter : searchInTable  | filter : { gender : checkboxModelMale }:true | filter : { gender : checkboxModelFemale }:true | orderBy : sort"  style=" background-color : {{user.color}} ">
+                <td> {{user.firstName}}</td>
+                <td> {{user.lastName}}</td>
+                <td> {{user.day}}/{{user.month}}/{{user.year}}</td>
+                <td> {{user.gender}}</td>
+            </tr>
+        </table>
+    </div>
+
+
+
+</div>
+
+</body>
+<!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+<script src="tableApp.js"></script>
+<script src="tableController.js"></script>
+<script src="tableFilter.js"></script>
+</html>

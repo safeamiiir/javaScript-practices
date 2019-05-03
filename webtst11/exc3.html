@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="node_modules/angular/angular.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <title>exc1</title>
+</head>
+<body ng-app="MyApplication" class="bg-dark ">
+    <div class="container p-3 m-5">
+        <form>
+            <div class="form-group">
+                <label for="number" class="text-warning"> Enter <b class="text-danger">ONLY</b> Number Below </label>
+                <input type="text" class="form-control text-info" id="number" placeholder="only Num" ng-model = "d">
+                <label for="number" class=" text-primary m-3"> {{ d | numberDetector }} </label>
+            </div>
+        </form>
+    </div>
+</body>
+<script src="node_modules/jquery/dist/jquery.min.js"></script>
+<script src="app.js"></script>
+<script src="filterNumberDetector.js"></script>
+
+</html>

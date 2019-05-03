@@ -1,0 +1,18 @@
+.container{
+    background-color: red;
+
+}
+
+.clearfix:after{
+    display: block;
+    content: " ";
+    clear: both;
+}
+
+.inside{
+    float: left;
+    margin: 25px;
+    background-color: #33b5e5;
+    width:100px;
+    height:30px;
+}

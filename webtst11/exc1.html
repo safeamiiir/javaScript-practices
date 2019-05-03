@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>exc1</title>
+    <script src="node_modules/angular/angular.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+</head>
+<body ng-app="MyApplication" class="bg-dark ">
+<div class="container p-3 m-5">
+    <form>
+        <div class="form-group">
+            <label for="aIncluser" class="text-warning"> Your Text Should Have  <b class="text-danger">" a " </b> Character To Be Shown </label>
+            <input type="text" class="form-control text-info" id="aIncluser" placeholder="only Num" ng-model = "c">
+            <label for="aIncluser" class=" text-primary m-3" ng-if="c.includes('a')"> {{c | Acontainer}} </label>
+        </div>
+    </form>
+</div>
+</body>
+<script src="app.js"></script>
+<script src="Acontainer.js"></script>
+
+</html>

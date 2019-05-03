@@ -1,0 +1,29 @@
+
+
+.rectangle {
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    height: 250px;
+    width: 450px;
+    background-color: #000000;
+    color: white;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-radius: 15px;
+
+}
+
+.triangle-left {
+    position: relative;
+    top: 50px;
+    left: 20px;
+    width: 0;
+    height: 0;
+    border-top: 30px solid transparent;
+    border-right: 55px solid #000;
+    border-bottom: 30px solid transparent;
+
+}

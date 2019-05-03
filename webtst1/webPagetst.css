@@ -1,0 +1,147 @@
+.ul {
+    font-family: Arial;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #FFFFFF;
+    border: none;
+}
+
+.li {
+    float: left;
+}
+
+
+.li a {
+    font-family: Arial;
+    display: block;
+    color: #2c7db2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.heading{
+    font-family: Arial;
+    font-size: 55px;
+    position: absolute;
+    top: 33px;
+    left: 5px;
+    height: 70px;
+    width: 600px;
+    background-color: #eeeeee;
+    color: #323232;
+    text-align: center;
+
+}
+
+.rectangle {
+    padding: 0px 35px;
+    font-family: Arial;
+    position: absolute;
+    top: 85px;
+    left: 320px;
+    height: 300px;
+    width: 540px;
+    background-color: #eeeeee;
+    color: #323232;
+    text-align: center;
+
+}
+
+.graanRectangle {
+
+    color: #FFFFFF;
+    position: absolute;
+    top: 200px;
+    left: 210px;
+    height: 37px;
+    width: 170px;
+    background-color: #5cb85c;
+    font-family: Arial;
+    padding-top: 13px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.blueRectangle {
+
+    color: #FFFFFF;
+    position: absolute;
+    top: 12px;
+    left: 715px;
+    height: 30px;
+    width: 70px;
+    background-color: #2c7db2;
+    font-family: Arial;
+    padding-top: 9px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.menuform {
+    font-family: Arial;
+    position: absolute;
+    left: 710px;
+}
+.menuproject{
+    font-family: Arial;
+    position: absolute;
+    left: 320px;
+    top : 20px;
+    font-size: 20px;
+    color: #7c7d79;
+}
+
+.line-separator{
+    position: absolute;
+    left:320px;
+    top:10px;
+    height: 50px;
+    width: 610px;
+    border-bottom: 1px solid lightgray;
+}
+.line-separator2{
+    position: absolute;
+    left:320px;
+    top:670px;
+    height: 50px;
+    width: 610px;
+    border-bottom: 1px solid lightgray;
+}
+
+.sub1{
+    font-family: Arial;
+    position: absolute;
+    left:320px;
+    top:390px;
+    max-width: 305px;
+}
+
+.sub2{
+    font-family: Arial;
+    position: absolute;
+    left:650px;
+    top:390px;
+    max-width: 305px;
+}
+
+.footer{
+    font-family: Arial;
+    font-size: 13px;
+    color:darkgray;
+    position: absolute;
+    left:320px;
+    top:740px;
+}
+
+.downer{
+    position: absolute;
+    left:320px;
+    top:730px;
+    height: 50px;
+    width: 610px;
+
+}

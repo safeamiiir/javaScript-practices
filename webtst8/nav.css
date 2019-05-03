@@ -1,0 +1,33 @@
+nav {
+    background:orange;
+    float:left;
+}
+nav ul {
+    text-align:center;
+    width: 547px;
+}
+nav ul li {
+    float:left;
+    display:inline;
+}
+
+nav ul li a {
+    display:block;
+    padding:15px 70px;
+    color:black;
+    text-decoration: none;
+
+}
+nav ul li ul {
+    position:absolute;
+    width:150px;
+    background:orange;
+}
+nav ul li ul li {
+    width:150px;
+}
+nav ul li ul li a {
+    display:block;
+    padding:10px 10px;
+    color:black;
+}
